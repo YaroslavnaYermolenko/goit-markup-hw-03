@@ -187,6 +187,8 @@ header .container address {
   text-align: center;
   padding: 16px 32px;
   margin-bottom: 188px;
+  border: none;
+  box-shadow: 0px 4px 4px 0px #00000026;
 }
 .orders-button:hover,
 .orders-button:focus {
@@ -237,7 +239,7 @@ header .container address {
   display: inline-block;
   margin-right: 24px;
   text-align: center;
-  box-shadow: 0px 2px 1px 0px #2e2f4214;
+  box-shadow: 0px 1px 1px 0px #2e2f4229;
 }
 .team-item:last-child {
   margin-right: 0;
