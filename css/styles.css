@@ -1,6 +1,5 @@
 body {
   font-family: "Roboto", sans-serif;
-  /*color: #2e2f42;*/
   color: #434455;
   background-color: #fff;
   line-height: 24px;
@@ -62,7 +61,6 @@ ul {
 }
 .header-navigation {
   display: flex;
-  /*gap: 76px;*/
   align-items: center;
 }
 .header-navigation .logo-header {
@@ -74,7 +72,6 @@ ul {
 .top-menu {
   display: flex;
   gap: 40px;
-  /*padding: 24px 0;*/
 }
 .top-menu-item {
 }
@@ -88,7 +85,6 @@ ul {
 .contacts-us-menu {
   display: flex;
   gap: 40px;
-  /**/
 }
 .link {
   font-weight: 500;
