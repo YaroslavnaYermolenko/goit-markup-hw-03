@@ -74,9 +74,9 @@ ul {
 .top-menu {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .top-menu-item {
-  padding: 24px 0;
 }
 .logo-hader-part {
   color: #2e2f42;
@@ -88,6 +88,7 @@ ul {
 .contacts-us-menu {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .link {
   font-weight: 500;
@@ -161,6 +162,7 @@ ul {
 .orders {
   background-color: #2e2f42;
   text-align: center;
+  padding: 188px 0;
 }
 .orders-header {
   color: #fff;
@@ -168,23 +170,26 @@ ul {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  padding-top: 188px;
   padding-bottom: 48px;
   max-width: 496px;
   margin: auto;
 }
 .orders-button {
+  margin: auto;
   font-family: "Roboto", sans-serif;
   background: #4d5ae5;
   color: #fff;
+  cursor: pointer;
+  min-width: 169px;
+  display: block;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   text-align: center;
   padding: 16px 32px;
-  margin-bottom: 188px;
   border: none;
+  border-radius: 4px;
   box-shadow: 0px 4px 4px 0px #00000026;
 }
 .orders-button:hover,
