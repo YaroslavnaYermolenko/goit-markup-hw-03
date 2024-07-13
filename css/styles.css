@@ -74,9 +74,10 @@ ul {
 .top-menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
+  /*padding: 24px 0;*/
 }
 .top-menu-item {
+  padding: 24px 0;
 }
 .logo-hader-part {
   color: #2e2f42;
@@ -88,7 +89,7 @@ ul {
 .contacts-us-menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
+  /*padding: 24px 0;*/
 }
 .link {
   font-weight: 500;
