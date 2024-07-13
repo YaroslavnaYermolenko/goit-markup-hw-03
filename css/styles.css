@@ -294,4 +294,5 @@ body .footer-desc {
 .footer .container .logo-header {
   display: inline-block;
   margin-bottom: 16px;
+  padding: 0;
 }
