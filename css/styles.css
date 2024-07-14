@@ -168,9 +168,8 @@ ul {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  padding-bottom: 48px;
   max-width: 496px;
-  margin: auto;
+  margin: 0 auto 48px;
 }
 .orders-button {
   margin: auto;
